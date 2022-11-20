@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911607543179",
+    "project_id": "firestore-cfd0b",
+    "storage_bucket": "firestore-cfd0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911607543179:android:0fc63c0fb8130de8b3ab8e",
+        "android_client_info": {
+          "package_name": "com.f55121059_yogadwisatyagiri.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911607543179-b52fqs832b50h4ou4gg7lucofhmitf7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Zrx9h4uAv6uMDJuI-j-ajhJfOqSESQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911607543179-b52fqs832b50h4ou4gg7lucofhmitf7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
